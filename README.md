@@ -1,5 +1,5 @@
-# template_paper_repo
-Template repository for a repo for a paper/project (not a module/library)
+# Variational Nonstationary Multivariate Gaussian Process Analysis 
+This repository for a repo for the project VNMGPA
 
 ## Installation
 To install, you can clone the repository and `cd` into the `template_paper_repo` folder.
